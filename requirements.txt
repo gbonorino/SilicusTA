@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit>=1.45
+mistralai>=1.7
+mistral-common>=1.5
+pandas
+numpy
+scipy
+python-dotenv
+requests
+tabulate
